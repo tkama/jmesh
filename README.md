@@ -1,2 +1,2 @@
 # jmesh
- Spatial shape and library of Japanese mesh,
+ Spatial shape and library of Japanese mesh.
